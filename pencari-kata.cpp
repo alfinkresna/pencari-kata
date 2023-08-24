@@ -1,4 +1,3 @@
-// © 2023 Alfinkresna
 #include <iostream>
 #include <string>
 #include <algorithm>
